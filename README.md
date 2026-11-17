@@ -3,7 +3,13 @@
 **Assemblies of God hymnbook for phone and projection.**
 Paroles, audio, partitions et mode projection, en anglais et en français.
 
-![AOG Hymns](docs/portfolio/cover.png)
+<p>
+  <img src="docs/portfolio/splash.png" alt="Ouverture" width="220">
+  <img src="docs/portfolio/home.png" alt="Liste" width="220">
+  <img src="docs/portfolio/settings.png" alt="Réglages" width="220">
+</p>
+
+Captures sur un Pixel 9. Le catalogue est vide tant que le projet Firebase AOG n'est pas branché.
 
 ## What it does
 
